@@ -7,4 +7,4 @@ Open in Processing (Processing.org)
 ####   Mouse click to produce a random spirograph
 
 
-![alt text](https://github.com/The-Odd-Institute/Multiplatform_SVG_Parser/blob/main/svg_parser.png?raw=true)
+![alt text](https://github.com/AmirJahan/Java_Processing_Hypotrochoids_Spirograph/blob/master/Java_Processing_Hypotrochoids_Spirograph.gif?raw=true)
